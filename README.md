@@ -31,3 +31,4 @@
     - Pass to property all configurable parameters (example: thread pool size...)
     - API to produce metrics to know which features have problems (internal method for developer call when there is an error? API where the developer provides callbacks where the API handles exception and rethrow...)
     - A standalone Feature Toggle server
+    - Choose a name to project
